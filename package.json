@@ -1,0 +1,16 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "This is my first js package",
+  "license": "ISC",
+  "author": "Shalu",
+  "type": "module",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
